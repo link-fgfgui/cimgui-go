@@ -1,0 +1,2 @@
+0
+126 12103423998603637 1781098029113654500 ca232c02b5309752c473518e05a56098 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-3wkgb3\CheckIncludeFile.c

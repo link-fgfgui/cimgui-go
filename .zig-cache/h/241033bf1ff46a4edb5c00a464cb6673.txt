@@ -1,0 +1,2 @@
+0
+79 49539595901120885 1781098081249564700 e49271ba865d2ac131873b6d03dc6b2e 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-gjeu1i\src.c

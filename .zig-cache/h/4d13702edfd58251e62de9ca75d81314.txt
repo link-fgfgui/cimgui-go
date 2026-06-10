@@ -1,0 +1,2 @@
+0
+30 3377699720573301 1781098015399679900 ca88c93bd175e47caa745b91cbaafb76 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-dju9t1\src.c

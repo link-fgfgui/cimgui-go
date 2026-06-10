@@ -1,0 +1,2 @@
+0
+4275 281474976734538 1781097949450678300 2617ddd8bd04b65bb0a3d5ffd0708af0 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\video\windows\SDL_windowsshape.c

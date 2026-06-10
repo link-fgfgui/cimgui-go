@@ -1,0 +1,2 @@
+0
+97969 281474976733910 1781097949290278500 e65d5d463e9c23eb9e85c05971fe6bad 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\render\direct3d11\SDL_render_d3d11.c

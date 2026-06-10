@@ -1,0 +1,2 @@
+0
+426 6755399441101173 1781098020782220600 99d7339c137664c6cac7f0bd9cbf0aa0 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-o1bqg4\src.c

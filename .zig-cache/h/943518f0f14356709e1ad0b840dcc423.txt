@@ -1,0 +1,2 @@
+0
+4985 281474976734520 1781097949444648500 b9fca0b8e0ab3bfc4ec59d2e4bcb2d0e 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\video\windows\SDL_windowsclipboard.c

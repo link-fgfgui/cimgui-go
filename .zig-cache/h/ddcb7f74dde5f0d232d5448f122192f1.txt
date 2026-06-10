@@ -1,0 +1,2 @@
+0
+12378 281474976733580 1781097949215077800 00708c3d36f08073aef9bd03f966ee0a 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\haptic\windows\SDL_windowshaptic.c

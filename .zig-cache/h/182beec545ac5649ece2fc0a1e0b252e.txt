@@ -1,0 +1,2 @@
+0
+498263 281474976733919 1781097949294301600 0ba2acd53095e5ac1c14e68f0c8d7f35 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\render\direct3d12\SDL_shaders_d3d12.c

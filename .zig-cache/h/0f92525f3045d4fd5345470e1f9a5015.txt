@@ -1,0 +1,2 @@
+0
+4141 281474976734141 1781097949350437400 c7773cb24eaf18a37a9b2aa43bb07e8c 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\video\SDL_clipboard.c

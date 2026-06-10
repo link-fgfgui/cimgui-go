@@ -1,0 +1,2 @@
+0
+5540 562949953422238 1781097945096887200 22eeca49e3608e86d54338f4bccac30f 0 D:\a\cimgui-go\cimgui-go\cwrappers\cimguizmo.cpp

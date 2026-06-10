@@ -1,0 +1,2 @@
+0
+301 23362423067029877 1781098045189013100 8f9b7cda982dd685e9413ed45546b83d 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-myvty9\CheckSymbolExists.c

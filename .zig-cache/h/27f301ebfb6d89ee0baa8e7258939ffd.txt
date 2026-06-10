@@ -1,0 +1,2 @@
+0
+26462 281474976733756 1781097949260627100 90d1066a1ccab12169f56203d3f42392 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\joystick\windows\SDL_windowsjoystick.c

@@ -1,0 +1,2 @@
+0
+30 3096224743862645 1781098015024562100 ca88c93bd175e47caa745b91cbaafb76 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-lsbauc\src.c
