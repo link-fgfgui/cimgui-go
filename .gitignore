@@ -43,6 +43,8 @@
 
 # Kernel Module Compile Results
 *.cmd
+!cmake/zig-ar.cmd
+!cmake/zig-ranlib.cmd
 .tmp_versions/
 modules.order
 Module.symvers
@@ -58,6 +60,7 @@ examples/example
 .ccls-cache
 thirdparty/glfw/build
 /cmd/codegen/build/
+**/build-zig/
 
 .clang-format
 

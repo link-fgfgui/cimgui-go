@@ -50,5 +50,26 @@ jobs:
         with:
           fetch-depth: 0
           submodules: 'recursive'
+      - name: Set up Zig
+        if: startsWith(matrix.os,'windows')
+        uses: mlugg/setup-zig@v2
+        with:
+          version: 0.16.0
+      - name: Build cgo Zig wrapper
+        if: startsWith(matrix.os,'windows')
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force -Path .tmp
+          go build -o .\.tmp\zigcgo.exe .\cmd\zigcgo
       - name: Run Go test
+        if: "!startsWith(matrix.os,'windows')"
         run: go test -race -v ./...
+      - name: Run Go test with Zig
+        if: startsWith(matrix.os,'windows')
+        shell: pwsh
+        run: |
+          $env:CGO_ENABLED = "1"
+          $env:CC = "$PWD\.tmp\zigcgo.exe cc"
+          $env:CXX = "$PWD\.tmp\zigcgo.exe c++"
+          $env:ZIG_CGO_TARGET = "x86_64-windows-gnu"
+          go test -v ./...
