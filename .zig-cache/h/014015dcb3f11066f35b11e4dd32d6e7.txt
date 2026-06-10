@@ -1,2 +1,0 @@
-0
-178 33495522228613493 1781098059693891400 38ffa6e5918c8db660e33b0e8138d1ca 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-fn400e\CheckSymbolExists.c

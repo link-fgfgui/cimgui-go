@@ -1,2 +1,0 @@
-0
-172 39687971716247925 1781098067710308200 9fe483becb4893b0d2421cdbf50d33c5 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-nlvcmm\CheckSymbolExists.c

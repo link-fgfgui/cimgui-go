@@ -1,2 +1,0 @@
-0
-301 18014398509527413 1781098037504969000 ee92f3293cd6e6b07f5fc38aebceaffb 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-mehnq2\CheckSymbolExists.c

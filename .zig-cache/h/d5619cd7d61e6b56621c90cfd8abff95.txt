@@ -1,2 +1,0 @@
-0
-305 30117822508085621 1781098054953055900 0f1326f1796a4fad8abfaa8cf3913640 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-m5qsyv\CheckSymbolExists.c

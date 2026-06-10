@@ -1,2 +1,0 @@
-0
-1491 281474976733490 1781097949195423700 cc32a052919e2e66a8f768733fafc5e3 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\events\SDL_clipboardevents.c

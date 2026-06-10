@@ -1,2 +1,0 @@
-0
-311 27021597764268405 1781098050657235500 712b876b12fad0cf28e674b7264934ee 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-tv5gp2\CheckSymbolExists.c

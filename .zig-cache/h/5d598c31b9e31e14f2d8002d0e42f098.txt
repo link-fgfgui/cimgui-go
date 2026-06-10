@@ -1,2 +1,0 @@
-0
-301 27584547717689717 1781098051415291100 9392dc16b8763ee9b00938fd2089d5ab 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-xirdyz\CheckSymbolExists.c

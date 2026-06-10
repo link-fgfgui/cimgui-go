@@ -1,2 +1,0 @@
-0
-2070 562949953421689 1781097944920725700 23f89d3d42271fc00a9496901c6b875e 0 D:\a\cimgui-go\cimgui-go\cwrappers\ImGuiColorTextEdit\ImGuiDebugPanel.cpp

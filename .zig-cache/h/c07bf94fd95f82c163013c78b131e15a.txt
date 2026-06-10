@@ -1,2 +1,0 @@
-0
-301 17732923532816757 1781098037082739000 0b9a374682f73cead75b7f14f30d4c0e 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-xu2jhd\CheckSymbolExists.c

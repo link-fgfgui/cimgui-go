@@ -1,2 +1,0 @@
-0
-2741 281474976733895 1781097949284244600 d01e17af615b941aef6a360ec79169fe 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\power\windows\SDL_syspower.c

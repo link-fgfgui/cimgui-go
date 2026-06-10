@@ -1,2 +1,0 @@
-0
-125 12947848928735605 1781098030286787700 36f18b4d2308cbd04ddafa318aa5cc9f 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-lvgle0\CheckIncludeFile.c

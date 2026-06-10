@@ -1,2 +1,0 @@
-0
-309 26458647810847093 1781098049819642000 00d510fd20be870c3ab377bf9cfdb840 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-36nrid\CheckSymbolExists.c

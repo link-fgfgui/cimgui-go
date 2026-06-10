@@ -1,2 +1,0 @@
-0
-176 47850746040856949 1781098079140561300 9671ea8820113021de0ffca47d43e541 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-lfqnam\CheckSymbolExists.c
