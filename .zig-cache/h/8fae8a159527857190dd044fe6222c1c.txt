@@ -1,0 +1,2 @@
+0
+12587 281474976733713 1781097949247584200 ece6287d80c0895ac419bb29675e92bf 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\joystick\hidapi\SDL_hidapi_stadia.c

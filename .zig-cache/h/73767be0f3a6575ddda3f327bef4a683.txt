@@ -1,0 +1,2 @@
+0
+423 6192449487679861 1781098019155579200 c922a54fcdd0351ebe7d2080b000555a 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-93wwv8\src.c

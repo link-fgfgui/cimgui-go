@@ -1,0 +1,2 @@
+0
+11205 281474976733766 1781097949262636900 7cc19f39965fbcee370bba29fc0cc833 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\libm\e_pow.c

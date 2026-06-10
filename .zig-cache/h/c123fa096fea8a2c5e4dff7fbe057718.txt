@@ -1,0 +1,2 @@
+0
+40994 281474976733962 1781097949308125900 ccc5aed60f244c3f7c32fbb8de566242 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\render\software\SDL_render_sw.c

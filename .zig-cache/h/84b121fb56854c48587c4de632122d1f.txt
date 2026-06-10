@@ -1,0 +1,2 @@
+0
+30 5348024557547893 1781098018023228900 ca88c93bd175e47caa745b91cbaafb76 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-lrhl5f\src.c

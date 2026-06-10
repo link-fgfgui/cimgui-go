@@ -1,0 +1,2 @@
+0
+305 26177172834136437 1781098049398865600 92659614f94ad7b77a1752d5631a41cf 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-fmmy55\CheckSymbolExists.c

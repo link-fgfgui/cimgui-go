@@ -1,0 +1,2 @@
+0
+319 4503599627415925 1781098016910333300 fa87aae621a5ddd6cde78076213d9bb8 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-yu54bb\src.c

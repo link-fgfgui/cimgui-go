@@ -1,0 +1,2 @@
+0
+6126 281474976733762 1781097949260627100 8b44a6687edc0366d3ec84d178c620ae 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\libm\e_exp.c

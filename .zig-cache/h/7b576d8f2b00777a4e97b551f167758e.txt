@@ -1,0 +1,2 @@
+0
+461 36028797019009397 1781098062637337300 652de801f6506b1491f21c25177f6f07 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-gs5g9v\CheckFunctionExists.c

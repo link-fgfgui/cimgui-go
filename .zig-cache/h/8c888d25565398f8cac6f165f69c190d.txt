@@ -1,0 +1,2 @@
+0
+90306 562949953421693 1781097944922735800 bf3718c59cc8c7f1ce4c1c5f4cc688ba 0 D:\a\cimgui-go\cimgui-go\cwrappers\ImGuiColorTextEdit\TextEditor.cpp

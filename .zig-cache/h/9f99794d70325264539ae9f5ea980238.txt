@@ -1,0 +1,2 @@
+0
+30 2533274790441333 1781098014262667800 ca88c93bd175e47caa745b91cbaafb76 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-my7325\src.c

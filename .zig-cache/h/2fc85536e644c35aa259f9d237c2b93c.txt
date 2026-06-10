@@ -1,0 +1,2 @@
+0
+8304 281474976733511 1781097949199444200 e1c706a7b8aa555921cdbe3b3a614de4 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\events\SDL_windowevents.c

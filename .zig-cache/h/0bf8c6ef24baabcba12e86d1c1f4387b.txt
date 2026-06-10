@@ -1,0 +1,2 @@
+0
+3216 281474976733960 1781097949306116300 8de58220a4dfe25532d7b3ed9bc3ef4a 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\render\software\SDL_drawpoint.c

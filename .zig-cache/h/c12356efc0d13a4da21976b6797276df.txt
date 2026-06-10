@@ -1,0 +1,2 @@
+0
+126 10696049115050357 1781098027139806500 8349b8d7b1e8891c0052eff59fc6d44f 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-9uhopt\CheckIncludeFile.c

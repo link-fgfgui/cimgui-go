@@ -1,0 +1,2 @@
+0
+48262 281474976733714 1781097949247584200 35a6e9a02eb6091bd599e1560c6cf7b7 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\joystick\hidapi\SDL_hidapi_steam.c

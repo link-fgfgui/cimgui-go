@@ -1,0 +1,2 @@
+0
+301 18858823439659381 1781098038779557100 b796d4bb6be9fec939a052e0fb5f33aa 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-0ez6go\CheckSymbolExists.c

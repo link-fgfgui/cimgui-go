@@ -1,0 +1,2 @@
+0
+22694 281474976733564 1781097949211053800 f4a3727b6ba3c5ab9cd0df9c51a9c4a5 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\src\haptic\SDL_haptic.c

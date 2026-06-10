@@ -1,0 +1,2 @@
+0
+178 44473046320329077 1781098074441478000 aac0262e8473fdeccc2e6c60e8721af7 0 D:\a\cimgui-go\cimgui-go\thirdparty\SDL\build-zig\CMakeFiles\CMakeScratch\TryCompile-vueeqi\CheckSymbolExists.c
